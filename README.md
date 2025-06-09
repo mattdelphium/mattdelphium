@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Matt 👋
 
-<!--
-**mattdelphium/mattdelphium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer with a growing focus on AI, Python, and chess analytics. My current project — *Delphium* — combines traditional chess engines with modern LLMs to help players analyze their games, discover patterns, and improve.
 
-Here are some ideas to get you started:
+### 🧩 Interests & Work
+- 💻 Full-stack software development (React, .NET, SQL, etc.)
+- 🧠 Building AI tools using OpenAI, LangChain, and custom Python pipelines
+- ♟️ Chess improvement through large-scale PGN + Stockfish analysis
+- 🧪 Exploring agentic workflows and autonomous evaluation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📍 Current Focus
+- Scaling and refining Delphium
+- Summarizing game patterns with natural language
+- Building tools that actually help players improve
+
+---
+
+Feel free to follow along or reach out — I’m always open to collaborating on thoughtful, human-centered tech.
